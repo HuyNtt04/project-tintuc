@@ -23,7 +23,7 @@ Chức năng **ADMIN**:
 ## Cách chạy Project:
 + Sử dụng XAMPP hoặc Laragon để chạy project (ưu tiên sử dụng Laragon hơn)
 + Sau khi tải source code về giải nén bỏ vào thư mục htdocs (nếu là XAMPP) hoặc thư mục www (nếu là Laragon)
-+ Đẩy file asm.sql lên database
++ Đẩy file database asm.sql lên PHPadmin, MySQL Workbench,...
 + Mở VScode chọn đường dẫn chứa thư mục source code sau đó mở Terminal theo đường dẫn chứa thư mục và nhập lệnh: php artisan serve để khởi chạy project
 
 ## Cách vào trang Admin:
